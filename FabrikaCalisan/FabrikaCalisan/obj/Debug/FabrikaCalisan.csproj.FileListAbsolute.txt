@@ -1,0 +1,10 @@
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\bin\Debug\FabrikaCalisan.exe.config
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\bin\Debug\FabrikaCalisan.exe
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\bin\Debug\FabrikaCalisan.pdb
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\obj\Debug\FabrikaCalisan.csproj.AssemblyReference.cache
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\obj\Debug\FabrikaCalisan.frmPanel.resources
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\obj\Debug\FabrikaCalisan.Properties.Resources.resources
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\obj\Debug\FabrikaCalisan.csproj.GenerateResource.cache
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\obj\Debug\FabrikaCalisan.csproj.CoreCompileInputs.cache
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\obj\Debug\FabrikaCalisan.exe
+C:\Users\Kadır\Desktop\Fabrika Calisan\FabrikaCalisan\FabrikaCalisan\obj\Debug\FabrikaCalisan.pdb
